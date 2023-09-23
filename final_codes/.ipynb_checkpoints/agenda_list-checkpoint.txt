@@ -1,0 +1,5 @@
+1. Introductions
+2. Overview of the new platform
+3. Paul McCartney's talk on the importance of data science
+4. Q&A
+5. Next steps

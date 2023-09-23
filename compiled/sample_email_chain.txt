@@ -1,0 +1,342 @@
+From: Andrew Knight
+To: Paul McCartney
+Cc: George Harrison, Ringo Starr
+Subject: Upcoming project
+
+Hi Paul,
+
+I hope this email finds you well.
+
+I'm writing to you today to discuss an upcoming project that we're working on.
+
+As you know, we're developing a new platform that will provide alumni with access to events, thought leadership, and opportunities to engage with each other.
+
+We're excited to announce that Paul McCartney will be giving a talk on the importance of data science.
+
+Paul is a Professor of Practice of Data Science at Olin College of Engineering and is active in disseminating her knowledge and expertise with respect to statistics, data, and analytics through many different channels.
+
+We believe that Paul's talk will be a valuable addition to our platform and will help our alumni to understand the importance of data science in their careers.
+
+The talk will be held on Zoom on January 15th at 10am EST.
+
+We hope that you will be able to attend.
+
+Please RSVP to me by January 10th.
+
+Thanks,
+Andrew
+
+From: Paul McCartney
+To: Andrew Knight
+Cc: George Harrison, Ringo Starr
+Subject: Re: Upcoming project
+
+Hi Andrew,
+
+Thanks for the email.
+
+I'm excited to be giving a talk on the importance of data science.
+
+I think it's a topic that is very relevant to our alumni and will help them to understand the importance of data in their careers.
+
+I'm available to answer any questions you have about the talk.
+
+Please let me know if you need anything else from me.
+
+Thanks,
+Paul
+
+From: Andrew Knight
+To: Paul McCartney
+Cc: George Harrison, Ringo Starr
+Subject: Re: Upcoming project
+
+Hi Paul,
+
+Thanks for your response.
+
+I don't have any questions at the moment.
+
+I just wanted to confirm that you're still available to give the talk on January 15th at 10am EST.
+
+Please let me know if anything changes.
+
+Thanks,
+Andrew
+
+From: Paul McCartney
+To: Andrew Knight
+Cc: George Harrison, Ringo Starr
+Subject: Re: Upcoming project
+
+Hi Andrew,
+
+Yes, I'm still available to give the talk on January 15th at 10am EST.
+
+I'm looking forward to it!
+
+Thanks,
+Paul
+
+Generate an agenda for a call based on the below email chain.
+From: Andrew Knight
+To: Paul McCartney
+Cc: George Harrison, Ringo Starr
+Subject: Upcoming project
+
+Hi Paul,
+I hope this email finds you well.
+I'm writing to you today to discuss an upcoming project that we're working on.
+As you know, we're developing a new platform that will provide alumni with access to events, thought leadership, and opportunities to engage with each other.
+We're excited to announce that Paul McCartney will be giving a talk on the importance of data science.
+Paul is a Professor of Practice of Data Science at Olin College of Engineering and is active in disseminating her knowledge and expertise with respect to statistics, data, and analytics through many different channels.
+We believe that Paul's talk will be a valuable addition to our platform and will help our alumni to understand the importance of data science in their careers.
+The talk will be held on Zoom on January 15th at 10am EST.
+We hope that you will be able to attend.
+
+Please RSVP to me by January 10th.
+
+Thanks,
+Andrew
+
+From: Paul McCartney
+To: Andrew Knight
+Cc: George Harrison, Ringo Starr
+Subject: Re: Upcoming project
+
+Hi Andrew,
+
+Thanks for the email.
+
+I'm excited to be giving a talk on the importance of data science.
+
+I think it's a topic that is very relevant to our alumni and will help them to understand the importance of data in their careers.
+
+I'm available to answer any questions you have about the talk.
+
+Please let me know if you need anything else from me.
+
+Thanks,
+Paul
+
+From: Andrew Knight
+To: Paul McCartney
+Cc: George Harrison, Ringo Starr
+Subject: Re: Upcoming project
+
+Hi Paul,
+
+Thanks for your response.
+
+I don't have any questions at the moment.
+
+I just wanted to confirm that you're still available to give the talk on January 15th at 10am EST.
+
+Please let me know if anything changes.
+
+Thanks,
+Andrew
+
+From: Paul McCartney
+To: Andrew Knight
+Cc: George Harrison, Ringo Starr
+Subject: Re: Upcoming project
+
+Hi Andrew,
+
+Yes, I'm still available to give the talk on January 15th at 10am EST.
+
+I'm looking forward to it!
+
+Thanks,
+Paul
+
+
+From: Andrew Knight
+To: Paul McCartney
+Cc: George Harrison, Ringo Starr
+Subject: Re: Upcoming project
+
+Cool Paul, if you deliver a good speech, I'll share with you my recipe for sphagetti :)
+
+Thanks,
+Andrew
+
+From: Paul McCartney
+To: Andrew Knight
+Cc: George Harrison, Ringo Starr
+Subject: Re: Upcoming project
+
+Haha, you know, I never disappoint! 
+
+From: Andrew Knight
+To: Paul McCartney
+Cc: George Harrison, Ringo Starr
+Subject: Upcoming project
+
+Hi Paul,
+
+I hope this email finds you well.
+
+I'm writing to you today to discuss an upcoming project that we're working on.
+
+As you know, we're developing a new platform that will provide alumni with access to events, thought leadership, and opportunities to engage with each other.
+
+We're excited to announce that Paul McCartney will be giving a talk on the importance of data science.
+
+Paul is a Professor of Practice of Data Science at Olin College of Engineering and is active in disseminating her knowledge and expertise with respect to statistics, data, and analytics through many different channels.
+
+We believe that Paul's talk will be a valuable addition to our platform and will help our alumni to understand the importance of data science in their careers.
+
+The talk will be held on Zoom on January 15th at 10am EST.
+
+We hope that you will be able to attend.
+
+Please RSVP to me by January 10th.
+
+Thanks,
+Andrew
+
+From: Paul McCartney
+To: Andrew Knight
+Cc: George Harrison, Ringo Starr
+Subject: Re: Upcoming project
+
+Hi Andrew,
+
+Thanks for the email.
+
+I'm excited to be giving a talk on the importance of data science.
+
+I think it's a topic that is very relevant to our alumni and will help them to understand the importance of data in their careers.
+
+I'm available to answer any questions you have about the talk.
+
+Please let me know if you need anything else from me.
+
+Thanks,
+Paul
+
+From: Andrew Knight
+To: Paul McCartney
+Cc: George Harrison, Ringo Starr
+Subject: Re: Upcoming project
+
+Hi Paul,
+
+Thanks for your response.
+
+I don't have any questions at the moment.
+
+I just wanted to confirm that you're still available to give the talk on January 15th at 10am EST.
+
+Please let me know if anything changes.
+
+Thanks,
+Andrew
+
+From: Paul McCartney
+To: Andrew Knight
+Cc: George Harrison, Ringo Starr
+Subject: Re: Upcoming project
+
+Hi Andrew,
+
+Yes, I'm still available to give the talk on January 15th at 10am EST.
+
+I'm looking forward to it!
+
+Thanks,
+Paul
+
+Generate an agenda for a call based on the below email chain.
+From: Andrew Knight
+To: Paul McCartney
+Cc: George Harrison, Ringo Starr
+Subject: Upcoming project
+
+Hi Paul,
+I hope this email finds you well.
+I'm writing to you today to discuss an upcoming project that we're working on.
+As you know, we're developing a new platform that will provide alumni with access to events, thought leadership, and opportunities to engage with each other.
+We're excited to announce that Paul McCartney will be giving a talk on the importance of data science.
+Paul is a Professor of Practice of Data Science at Olin College of Engineering and is active in disseminating her knowledge and expertise with respect to statistics, data, and analytics through many different channels.
+We believe that Paul's talk will be a valuable addition to our platform and will help our alumni to understand the importance of data science in their careers.
+The talk will be held on Zoom on January 15th at 10am EST.
+We hope that you will be able to attend.
+
+Please RSVP to me by January 10th.
+
+Thanks,
+Andrew
+
+From: Paul McCartney
+To: Andrew Knight
+Cc: George Harrison, Ringo Starr
+Subject: Re: Upcoming project
+
+Hi Andrew,
+
+Thanks for the email.
+
+I'm excited to be giving a talk on the importance of data science.
+
+I think it's a topic that is very relevant to our alumni and will help them to understand the importance of data in their careers.
+
+I'm available to answer any questions you have about the talk.
+
+Please let me know if you need anything else from me.
+
+Thanks,
+Paul
+
+From: Andrew Knight
+To: Paul McCartney
+Cc: George Harrison, Ringo Starr
+Subject: Re: Upcoming project
+
+Hi Paul,
+
+Thanks for your response.
+
+I don't have any questions at the moment.
+
+I just wanted to confirm that you're still available to give the talk on January 15th at 10am EST.
+
+Please let me know if anything changes.
+
+Thanks,
+Andrew
+
+From: Paul McCartney
+To: Andrew Knight
+Cc: George Harrison, Ringo Starr
+Subject: Re: Upcoming project
+
+Hi Andrew,
+
+Yes, I'm still available to give the talk on January 15th at 10am EST.
+
+I'm looking forward to it!
+
+Thanks,
+Paul
+
+
+From: Andrew Knight
+To: Paul McCartney
+Cc: George Harrison, Ringo Starr
+Subject: Re: Upcoming project
+
+Cool Paul, if you deliver a good speech, I'll share with you my recipe for sphagetti :)
+
+Thanks,
+Andrew
+
+From: Paul McCartney
+To: Andrew Knight
+Cc: George Harrison, Ringo Starr
+Subject: Re: Upcoming project
+
+Haha, you know, I never disappoint! 
+
